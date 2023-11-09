@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eb609d8d.css",
+    "main.js": "/static/js/main.eee6636f.js",
+    "static/js/787.9f9a678f.chunk.js": "/static/js/787.9f9a678f.chunk.js",
+    "static/media/background.jpeg": "/static/media/background.76b9fc635cae5c54cf67.jpeg",
+    "static/media/muscles_Full.png": "/static/media/muscles_Full.b5fa34e6307a2200150f.png",
+    "static/media/muscles.png": "/static/media/muscles.6604977e7a7d186391d1.png",
+    "static/media/LOGO3.webp": "/static/media/LOGO3.a9094ed053d3fd499ea5.webp",
+    "static/media/maphoto.webp": "/static/media/maphoto.d328f33b1b9ba7566b43.webp",
+    "index.html": "/index.html",
+    "main.eb609d8d.css.map": "/static/css/main.eb609d8d.css.map",
+    "main.eee6636f.js.map": "/static/js/main.eee6636f.js.map",
+    "787.9f9a678f.chunk.js.map": "/static/js/787.9f9a678f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb609d8d.css",
+    "static/js/main.eee6636f.js"
+  ]
+}
